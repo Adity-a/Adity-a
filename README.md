@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adity-a&label=Profile%20views&color=0e75b6&style=flat" alt="adity-a" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=adity-a&theme=discord&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=adity-a&theme=discord&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Experience,Followers,Repositories,PullRequestStars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **OCR ANDROId**
 
