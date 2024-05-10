@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Balodi</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adity-a&label=Profile%20views&color=0e75b6&style=flat" alt="adity-a" /> </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="400" alt="NUX_Octodex">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=adity-a&theme=discord&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Experience,Followers,Repositories,PullRequestStars,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
